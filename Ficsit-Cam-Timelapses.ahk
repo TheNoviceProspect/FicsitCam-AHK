@@ -1,5 +1,6 @@
 ﻿#SingleInstance Force
 #Hotstring NoMouse
+#Hotstring EndChars `t
 Persistent
 
 ;; These values can be configured
