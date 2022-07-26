@@ -32,35 +32,25 @@ CamPrefix := "TLcam" ;(Default)
 
 ### Commands
 
-```
-tlc
-```
+`tlc` \
 This creates a timelapse camera at the players position.
-The name is based on the prefix in the script and the index of the current camera
+The name is based on the prefix in the script and the index of the current camera \
 *generated command structure:* `/fic timelapse create <Prefix><CurrentIndex> <SecondsPerFrame>`
 
-```
-tls
-```
-This starts all existing Timelapse Cameras
+`tls` \
+This starts all existing Timelapse Cameras \
 *generated command structure:* `/fic timelapse start <Prefix><1-MaxCams>`
 
-```
-tlf
-```
-This stops all existing Timelapse Cameras
+`tlf` \
+This stops all existing Timelapse Cameras \
 *generated command structure:* `/fic timelapse stop <Prefix><1-MaxCams>`
 
-```
-tld
-```
-This deletes all existing Timelapse Cameras
+`tld` \
+This deletes all existing Timelapse Cameras \
 *generated command structure:* `/fic timelapse delete <Prefix><1-MaxCams>`
 
-```
-tll
-```
-This lists the existing Timelapse Cameras
+`tll` \
+This lists the existing Timelapse Cameras \
 *generated command structure:* `/fic timelapse list`
 
 ### Additional Notes
