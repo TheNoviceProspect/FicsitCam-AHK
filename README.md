@@ -18,13 +18,13 @@ So that's what happens when you create a Timelapse Camera; It increases a number
 
 I have created a few "HotStrings" in AHK which act as "commands" to create/start/stop and delete timelapse cameras
 
-So for example, you'd place your character at Camera Position 1, hit <Enter>, type `tlc` and then hit <TAB>, now repeat for the 2nd position etc.
+So for example, you'd place your character at Camera Position 1, hit `<Enter>`, type `tlc` and then hit `<TAB>`, now repeat for the 2nd position etc.
   
-When you are ready to start recording the timelapse you open up a chat window (by hitting <Enter>), type `tls`, then <TAB>, et voilá, all your recordings are starting.
+When you are ready to start recording the timelapse you open up a chat window (by hitting `<Enter>`), type `tls`, then `<TAB>`, et voilá, all your recordings are starting.
   
-When you're done, you open chat again, type `tlf` then <TAB> and the recordings are stopped.
+When you're done, you open chat again, type `tlf` then `<TAB>` and the recordings are stopped.
   
-When you finally decide to delete the cameras, you simply (again) open chat, and type `tld` and <TAB> and they're gone.
+When you finally decide to delete the cameras, you simply (again) open chat, and type `tld` and `<TAB>` and they're gone.
   
 Last but not least you can also issue `tll` to get a list of all cameras.
 
